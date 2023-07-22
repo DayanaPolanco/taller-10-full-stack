@@ -7,7 +7,7 @@
 <h2> Punto 1: Constantes y Variables</h2>
 <img src="./public/images/image-1.PNG">
 <h2> Punto 2: Suma de constante y variable</h2>
-
+<img src="./public/images/image-2.PNG">
 <h2> Punto 3: Suma de 2 números ingresados por el usuario</h2>
 
 <h2> Punto 4: Nombre y apellido del usuario</h2>
