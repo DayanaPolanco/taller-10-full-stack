@@ -23,7 +23,7 @@
 <h2> Punto 9: Tabla del 0 al 30 WHILE</h2>
 <img src="./public/images/image-9.PNG">
 <h2> Punto 10: Números pares del 0 al 100 WHILE</h2>
-
+<img src="./public/images/image-10.PNG">
 <h2> Punto 11: Números pares del 0 al 100 For</h2>
 
 <h2> Punto 12: Tabla del 0 al 30 FOR</h2>
