@@ -15,7 +15,7 @@
 <h2> Punto 5: Calculo de pago en Bolera con IF</h2>
 <img src="./public/images/image-5.PNG">
 <h2> Punto 6: Usuario mayor o menor de edad</h2>
-
+<img src="./public/images/image-6.PNG">
 <h2> Punto 7: Operaciones básicas entre 2 números</h2>
 
 <h2> Punto 8: Calculo de pago en Bolera con SWITCH</h2>
