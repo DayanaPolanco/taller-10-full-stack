@@ -27,7 +27,7 @@
 <h2> Punto 11: Números pares del 0 al 100 For</h2>
 <img src="./public/images/image-11.PNG">
 <h2> Punto 12: Tabla del 0 al 30 FOR</h2>
-
+<img src="./public/images/image-12.PNG">
 <h2> Punto 13: Suma de un arreglo</h2>
 
 <h2> Punto 14: Revisión de contraseña</h2>
