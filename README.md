@@ -29,7 +29,7 @@
 <h2> Punto 12: Tabla del 0 al 30 FOR</h2>
 <img src="./public/images/image-12.PNG">
 <h2> Punto 13: Suma de un arreglo</h2>
-
+<img src="./public/images/image-13.PNG">
 <h2> Punto 14: Revisión de contraseña</h2>
-
+<img src="./public/images/image-14.PNG">
 <h2> Punto 15: Operaciones básicas entre 2 números con funciones</h2>
