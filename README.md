@@ -11,7 +11,7 @@
 <h2> Punto 3: Suma de 2 números ingresados por el usuario</h2>
 <img src="./public/images/image-3.PNG">
 <h2> Punto 4: Nombre y apellido del usuario</h2>
-
+<img src="./public/images/image-4.PNG">
 <h2> Punto 5: Calculo de pago en Bolera con IF</h2>
 
 <h2> Punto 6: Usuario mayor o menor de edad</h2>
